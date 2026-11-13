@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales & Behavioral Performance Analytics
 
-[![Open In Colab](https://colab.research.google.com/drive/1aWmcGoLm0rxBfdwKAlGPOpJMJsPZEc0A?usp=drive_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aWmcGoLm0rxBfdwKAlGPOpJMJsPZEc0A?usp=drive_link)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/views/E-commerceEnd-to-EndPerformanceDashboard/Dashboard-Overview1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 An end-to-end Python data analytics project exploring multi-channel e-commerce sales performance, customer behavioral segmentation, traffic acquisition efficiency, and statistical hypothesis testing.
