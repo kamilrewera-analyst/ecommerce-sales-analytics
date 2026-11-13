@@ -65,5 +65,5 @@ The project follows a rigorous Data Analytics Lifecycle:
 
 ## 🔗 Interactive Dashboards & Access
 
-* You can view the full Google Colab code implementation and statistical breakdown here: 👉 [Open Google Colab Notebook](https://colab.research.google.com/drive/1aWmcGoLm0rxBfdwKAIGPOpJMJsPZEc0A?authuser=4#scrollTo=UifaJ5b1gnnS)
+* You can view the full Google Colab code implementation and statistical breakdown here: 👉 [Open Google Colab Notebook]([https://colab.research.google.com/drive/1aWmcGoLm0rxBfdwKAIGPOpJMJsPZEc0A?authuser=4#scrollTo=UifaJ5b1gnnS](https://colab.research.google.com/drive/1aWmcGoLm0rxBfdwKAlGPOpJMJsPZEc0A?usp=drive_link))
 * Explore the interactive multi-page visual reports here: 👉 [View Tableau Public Dashboard](https://public.tableau.com/views/E-commerceEnd-to-EndPerformanceDashboard/Dashboard-Overview1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
